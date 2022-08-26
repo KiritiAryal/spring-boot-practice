@@ -1,0 +1,12 @@
+package com.pack.basic;
+
+public class inheritancetest {
+	public static void main(String[] args) {
+		Animal animal = new Animal();
+		animal.eat();
+		
+		Lion lion = new Lion();
+		lion.eat();
+	}
+
+}

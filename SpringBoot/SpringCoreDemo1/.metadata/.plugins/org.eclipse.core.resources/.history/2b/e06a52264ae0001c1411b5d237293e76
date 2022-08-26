@@ -1,0 +1,11 @@
+package com.bibekdhungana.entities;
+
+public class Student {
+	
+	private int studentId;
+	private String studentName;
+	private String studentCity;
+	
+	
+
+}

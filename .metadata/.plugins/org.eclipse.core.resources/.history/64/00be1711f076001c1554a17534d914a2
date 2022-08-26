@@ -1,0 +1,8 @@
+package com.pack.basic;
+
+public class Triangle implements Shape{
+	
+	public void draw() {			// @override the abstract method
+		System.out.println("Triangle is drawn!"); 
+	}
+}

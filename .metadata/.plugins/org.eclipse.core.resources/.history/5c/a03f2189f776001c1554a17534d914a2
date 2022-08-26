@@ -1,0 +1,11 @@
+package com.pack.basic.polymorphism;
+
+public class Man extends Human{
+	public void walk() {
+		System.out.println("Man WALKS!!");
+	}
+
+	public void age(int age) {
+		System.out.println("The age of man is" + age);
+	}
+}

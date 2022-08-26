@@ -1,0 +1,7 @@
+package com.bibekdhungana;
+
+public class Person {
+	static {
+		System.out.println("staic methos pf person class");
+	}
+}

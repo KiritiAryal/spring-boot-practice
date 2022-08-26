@@ -1,0 +1,9 @@
+package com.pack.basic.polymorphism;
+
+public class Man extends Human{
+	public void walk() {
+		System.out.println("Man WALKS!!");
+	}
+
+
+}

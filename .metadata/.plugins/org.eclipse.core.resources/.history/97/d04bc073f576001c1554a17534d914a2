@@ -1,0 +1,10 @@
+package com.pack.basic.polymorphism;
+
+public class ComileTimePolyTester {
+	
+	public static void main(String[] args) {
+		Laptop laptop = new Laptop();
+		laptop.hdd();
+	}
+
+}

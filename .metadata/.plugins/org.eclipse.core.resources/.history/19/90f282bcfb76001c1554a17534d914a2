@@ -1,0 +1,11 @@
+package com.pack.basic.constructor;
+
+public class Table {
+	
+	public void dimension(int h, int w) {
+		System.out.println("height is: " + h);
+		System.out.println("width is: " + w);
+		
+	}
+
+}

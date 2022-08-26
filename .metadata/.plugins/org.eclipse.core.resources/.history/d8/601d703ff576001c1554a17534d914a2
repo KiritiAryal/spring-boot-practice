@@ -1,0 +1,9 @@
+package com.pack.basic.polymorphism;
+
+public class Laptop {
+	
+	public void hdd() {
+		System.out.println("1 TB HDD"); 
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.bibekdhungana.dao;
+
+public class StudentDao {
+
+}

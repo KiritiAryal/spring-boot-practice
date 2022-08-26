@@ -1,0 +1,10 @@
+package com.bibekdhungan.dao;
+
+import com.bibekdhungana.entities.Student;
+
+public class StudentDao {
+	
+	public int insert(Student student) {
+		
+	}
+}

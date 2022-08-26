@@ -1,0 +1,13 @@
+package com.bibekdhungana.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "student_details")
+public class Student {
+	private int studentId;
+	private String studentName;
+	private String studentCity;
+
+}

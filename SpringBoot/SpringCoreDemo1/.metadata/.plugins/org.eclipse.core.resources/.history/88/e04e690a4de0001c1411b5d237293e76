@@ -1,0 +1,15 @@
+package com.bibekdhungan.dao;
+
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import com.bibekdhungana.entities.Student;
+
+public class StudentDao {
+	
+	private HibernateTemplate hibernateTemplate;
+	
+	public int insert(Student student) {
+		hibernateTemplate.save(student);
+		return 1;
+	}
+}

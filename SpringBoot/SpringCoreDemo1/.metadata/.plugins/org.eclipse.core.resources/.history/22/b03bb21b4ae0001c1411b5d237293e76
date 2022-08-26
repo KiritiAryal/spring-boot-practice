@@ -1,0 +1,5 @@
+package com.bibekdhungana.entities;
+
+public class Student {
+
+}
